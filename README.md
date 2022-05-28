@@ -52,4 +52,4 @@ Run the application locally
 - [Documentation](https://socket.io) socket.io
 - [Documentation](https://pharos.sh/ejemplos-de-websocket-de-node-js-con-socket-io/) example with socket.io
 - [Documentation](https://ejs.co) ejs
-- [Documentation](https://getbootstrap.com) https://getbootstrap.com
+- [Documentation](https://getbootstrap.com) bootstrap
