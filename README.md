@@ -3,7 +3,7 @@
 *<p>[DEMO](https://chat-linkedin.glitch.me/login)*</p>
 
 ## Introduction
-Chat online on web [NodeJs] [MVD] 
+Chat online on web [NodeJs] [Websocket] [MVD] 
 
 ## App
 [![Login1.png](https://i.postimg.cc/XYJp385j/Login1.png)](https://postimg.cc/9r6WYy1K)
