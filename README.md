@@ -47,9 +47,9 @@ Run the application locally
 
 
 ## Extra
-[Documentation](https://www.npmjs.com/package/nodemon) nodemon
-[Documentation](https://expressjs.com/es/) express
-[Documentation](https://socket.io) socket.io
-[Documentation](https://pharos.sh/ejemplos-de-websocket-de-node-js-con-socket-io/) example with socket.io
-[Documentation](https://ejs.co) ejs
-[Documentation](https://getbootstrap.com) https://getbootstrap.com
+> [Documentation](https://www.npmjs.com/package/nodemon) nodemon
+> [Documentation](https://expressjs.com/es/) express
+> [Documentation](https://socket.io) socket.io
+> [Documentation](https://pharos.sh/ejemplos-de-websocket-de-node-js-con-socket-io/) example with socket.io
+> [Documentation](https://ejs.co) ejs
+> [Documentation](https://getbootstrap.com) https://getbootstrap.com
